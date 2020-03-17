@@ -16,6 +16,6 @@
         "arlo"
     ],
     "dependencies": {
-        "node-arlo": ">=0.0.7"
+        "node-arlo": "git://github.com/jeremyhiggs/node-arlo.git#adcd6176a99b8d048dd5d4483271b9adacfb23d2"
     }
 }
